@@ -21,7 +21,7 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn (Logistic Regression, KNN, Decis
 - K-Nearest Neighbors: 87.9% accuracy
 
 ## Files
-- `AI_Job_Salary_Project.ipynb`:the full code and analysis
+- `AI_Job_Salary_Project.ipynb`: the full code and analysis
 - `prompts_classification.pdf`: the prompts used in the project
 
 ## How to run
