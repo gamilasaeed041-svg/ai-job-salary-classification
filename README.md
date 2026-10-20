@@ -16,7 +16,7 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn (Logistic Regression, KNN, Decis
 3. Model training and evaluation
 
 ## Results
-- ...
+- **Best model:** Logistic Regression with 92.3% accuracy
 
 ## Files
 - `AI_Job_Salary_Project.ipynb`: الكود والتحليل كامل
