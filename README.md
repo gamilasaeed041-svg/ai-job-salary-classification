@@ -1,14 +1,14 @@
 # AI Job Salary Classification
 
-نموذج Machine Learning بيصنّف مستوى مرتبات وظايف الذكاء الاصطناعي باستخدام Python وXGBoost.
+Binary classification model that predicts whether an AI job offer is high-salary, using Python and scikit-learn.
 
 ## Overview
-- **Goal:** ...
-- **Dataset:** ... (المصدر + عدد الصفوف)
-- **Target:** ...
+- **Goal:** Predict whether an AI job offer is "High Salary" (above median) based on professional and company features
+- **Dataset:** 15,000 records (job title, experience level, location, company size)
+- **Target:** High Salary (binary: above/below median)
 
 ## Tools
-Python, Pandas, Scikit-learn, XGBoost, Jupyter Notebook
+Python, Pandas, NumPy, Matplotlib, Scikit-learn (Logistic Regression, KNN, Decision Tree, GridSearchCV), Jupyter Notebook
 
 ## Steps
 1. Data cleaning and preprocessing
@@ -16,7 +16,6 @@ Python, Pandas, Scikit-learn, XGBoost, Jupyter Notebook
 3. Model training and evaluation
 
 ## Results
-- AUC: 0.98
 - ...
 
 ## Files
@@ -26,6 +25,6 @@ Python, Pandas, Scikit-learn, XGBoost, Jupyter Notebook
 ## How to run
 
 ```
-pip install pandas scikit-learn xgboost jupyter
+pip install pandas numpy matplotlib scikit-learn jupyter
 jupyter notebook AI_Job_Salary_Project.ipynb
 ```
