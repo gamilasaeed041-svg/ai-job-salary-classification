@@ -18,6 +18,7 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn (Logistic Regression, KNN, Decis
 ## Results
 - **Best model:** Logistic Regression with 92.3% accuracy
 - Decision Tree: 89.9% accuracy
+- K-Nearest Neighbors: 87.9% accuracy
 
 ## Files
 - `AI_Job_Salary_Project.ipynb`: الكود والتحليل كامل
